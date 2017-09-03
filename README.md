@@ -1,5 +1,5 @@
-# I2R Docker environment
-This repository provides docker images to setup with ease development environments needed for developing the I2R projects.
+# DF Docker environment
+This repository provides docker images to setup with ease development environments needed for developing the DlafCreative projects.
 To deploy and run it, you will need Docker and Docker Compose. Follow the instructions below, depending on your OS.
 
 ## Installing Docker
@@ -30,7 +30,7 @@ Finally, Docker-Compose allows to define and run multi-container Docker applicat
 ## Run Docker container
 ### Clone this repository
 ```shell
-git clone https://github.com/LaboratoireAIR/poc-docker-infra-dev.git
+git clone https://github.com/DlafCreative/docker.git
 ```
 You'll end up with a folder where each subfolders represent a Docker stack : lamp, men...
 
